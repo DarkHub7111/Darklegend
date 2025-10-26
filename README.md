@@ -1,2 +1,0 @@
-# Darklegend
-Script ninja legends 
