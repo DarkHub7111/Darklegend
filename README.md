@@ -1,0 +1,2 @@
+# Darklegend
+Script ninja legends 
